@@ -20,7 +20,7 @@ def init_database(user: str, password: str, host: str, port: str, database: str)
 
 
 llm = ChatGroq(model="gemma2-9b-it", temperature=0,
-                   api_key="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" )
+                   api_key="YOUR_GROQ_API_KEY" )
 
 
 def get_sql_chain(db):
