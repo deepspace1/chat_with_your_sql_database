@@ -1,9 +1,6 @@
 # AI-Powered Database Interaction App
 
-## Note: 
-    THIS APP IS AT VERY START PHASE SO THERE MAY BE ERRORS AND INCORRECT QUERIES, BUT IT WORKS WELL WITH SIMPLE QUESTIONS.
-    PLEASE BE PATIENT AND GIVE ME TIME TO IMPROVE IT. WORKING ON TO ADD MANY FUNCTIONALITIES AND IMPROVING IT FOR BETTER USAGE.
-    THANK YOU.
+## Note: THIS APP IS AT VERY START PHASE SO THERE MAY BE ERRORS AND INCORRECT QUERIES, BUT IT WORKS WELL WITH SIMPLE QUESTIONS.PLEASE BE PATIENT AND GIVE ME TIME TO IMPROVE IT. WORKING ON TO ADD MANY FUNCTIONALITIES AND IMPROVING IT FOR BETTER USAGE.THANK YOU.
 
 This project enables users to query a database using natural language, and the AI generates real-time queries to retrieve data.
 
@@ -26,9 +23,7 @@ This project enables users to query a database using natural language, and the A
    - Install dependencies:
      ```sh
      pip install -r requirements.txt
-     ```
-   - Configure environment variables in `.env`:
-     ```
+
    - Start the streamlit app:
      ```sh
      streamlit run main.py
