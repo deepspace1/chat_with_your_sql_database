@@ -43,7 +43,7 @@ This project enables users to query a database using natural language, and the A
 
 ## Screenshots
 
-    ![alt text]({82EB84AD-FF67-4202-B019-BA83654DA828}.png)
+    ![images](/images/ss1.png)
 
 ### Contributing
 Feel free to submit pull requests or report issues.
