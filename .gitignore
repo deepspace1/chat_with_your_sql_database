@@ -1,3 +1,4 @@
 .venv
 .env
 chat_with_sql_db_env/
+sql_env/

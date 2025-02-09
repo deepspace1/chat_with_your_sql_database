@@ -41,6 +41,10 @@ This project enables users to query a database using natural language, and the A
 3. The AI will generate the corresponding SQL query and execute it.
 4. View the results instantly!
 
+## Screenshots
+
+    ![alt text]({82EB84AD-FF67-4202-B019-BA83654DA828}.png)
+
 ### Contributing
 Feel free to submit pull requests or report issues.
 
