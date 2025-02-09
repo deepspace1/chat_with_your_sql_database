@@ -47,8 +47,6 @@ This project enables users to query a database using natural language, and the A
 
 ![images](images/ss2.png)
 
-![images](images/ss3.png)
-
 
 ### Contributing
 Feel free to submit pull requests or report issues.
