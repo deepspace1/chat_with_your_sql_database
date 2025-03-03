@@ -16,7 +16,7 @@ This project enables users to query a database using natural language, and the A
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/deepspace1/chat_with_your_sql_database.git
-   cd chat_with_sql_database
+   cd chat_with_your_sql_database
    ```
 
 2. **Set up the app:**
